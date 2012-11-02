@@ -18,3 +18,6 @@
   
 1. 画像もリンク可能  
 ![sms_icon](http://a0.twimg.com/profile_images/2222926447/smsdragon_L.E.D_bigger.png "@ryosms")
+
+1. リポジトリ内のファイルにリンク  
+link:files/README.md
