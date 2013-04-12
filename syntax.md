@@ -125,3 +125,9 @@ test
 | Contents1 | Contents2 | Contents3 |
 | Contents1-1 | Contents2-1 | Contents3-1|
 | 右寄せのカラム | 中央寄せのカラム | 左寄せのカラム |
+
+### Other
+
+###### 絵文字
+
+:octcat:
