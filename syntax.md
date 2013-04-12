@@ -130,4 +130,4 @@ test
 
 ###### 絵文字
 
-:octcat:
+:octocat:
